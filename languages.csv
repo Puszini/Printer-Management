@@ -1,0 +1,14 @@
+﻿#languages,,
+ID,en,pl
+0,Printers management,Zarządzanie Drukarkami
+1,Install,Instaluj
+2,Installing...,Instalacja...
+3,Installed,Zainstalowano
+4,Preferences,Preferencje
+5,Remove,Usuń
+"6,""To configure this printer properly, after installation go into 'Preferences' then choose 'Authentication/Account Track'."
+7,You are connected to VPN. You have to be connected to Company network in order to use Printer Managemet.,Jesteś połączony z siecią VPN. Aby móc korzystać z zarządzania drukarkami połącz się z siecią Firmową.
+8,Network error,Błąd sieci
+9,Remove old printers,Usuń stare drukarki
+10,Removing,Usuwanie
+11,Successfully removed old printers!,Poprawnie usunięto stare drukarki!
